@@ -1,0 +1,19 @@
+[
+  {
+    "country": "Mozambique",
+    "year": 2023,
+    "attachmentPoint": 73000000,
+    "aggregateLimit": 9500000,
+    "cedingPercentage": 2.5,
+    "exhaustionPoint": 3550000000
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "year": 2023,
+    "attachmentPoint": 82000000,
+    "aggregateLimit": 10200000,
+    "cedingPercentage": 2.7,
+    "exhaustionPoint": 4000000000
+  }
+]
+
